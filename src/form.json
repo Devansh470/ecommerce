@@ -1,0 +1,25 @@
+{
+  "dtat": [
+    {
+      "id": "2",
+      "Rollno": "26",
+      "Name": "aman",
+      "City": "bhopal",
+      "Fess": "50000"
+    },
+    {
+      "id": "6357",
+      "Rollno": "5",
+      "Name": "kavya",
+      "City": "hydrabadh",
+      "Fess": "7800"
+    },
+    {
+      "id": "2c26",
+      "Rollno": "891",
+      "Name": "ram",
+      "City": "delhi",
+      "Fess": "892232"
+    }
+  ]
+}

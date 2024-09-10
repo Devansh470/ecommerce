@@ -1,0 +1,17 @@
+
+
+#header
+{
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+}
+
+#buttonbox
+{
+    width: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "6f59",
+      "name": "devansh",
+      "email": "malviyaramniwas7@gmail.com",
+      "password": "devansh@4750"
+    },
+    {
+      "id": "f4b5",
+      "email": "devanshgarg630",
+      "name": "devansh",
+      "password": "devansh1234"
+    },
+    {
+      "id": "823f",
+      "name": "mukesh ",
+      "email": "mukesh630",
+      "password": "m1234"
+    },
+    {
+      "id": "84c5",
+      "name": "anjali",
+      "email": "anjali470",
+      "password": "a1234"
+    },
+    {
+      "id": "fd8f",
+      "name": "jhon",
+      "email": "jhon123",
+      "password": "j123"
+    },
+    {
+      "id": "c11d",
+      "name": "kavya27",
+      "email": "kavya2782004@gmail.com",
+      "password": "kavya1234"
+    }
+  ]
+}

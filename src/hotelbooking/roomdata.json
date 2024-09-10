@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": "90f4",
+      "day": "3",
+      "name": "devraj malviya",
+      "city": "bhopal",
+      "night": "6599",
+      "room": "standard double non ac room"
+    },
+    {
+      "id": "ac56",
+      "day": "5",
+      "name": "aman",
+      "city": "indore",
+      "night": "8599",
+      "room": "standard twin ac room"
+    },
+    {
+      "id": "f90d",
+      "day": "2",
+      "name": "aman garg",
+      "city": "bhopal",
+      "night": "10599",
+      "room": "single non ac room"
+    },
+    {
+      "id": "dc36",
+      "day": "1",
+      "name": "pune",
+      "city": "pune",
+      "night": "2599",
+      "room": "standard twin non ac room"
+    },
+    {
+      "id": "81c1",
+      "day": "5",
+      "name": "devansh",
+      "city": "bhopal",
+      "night": "12799",
+      "room": "standard double ac room"
+    },
+    {
+      "id": "0323"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+import Comp3 from "./Comp3";
+
+const Comp2=()=>{
+    return(
+        <>
+        <h1>welocme to cybrom 2</h1>
+        <Comp3 />
+        </>
+    )
+}
+
+export default Comp2;

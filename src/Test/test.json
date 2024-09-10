@@ -1,0 +1,44 @@
+{
+  "form": [
+    {
+      "id": "1",
+      "empid": "1",
+      "name": "devansh",
+      "designation": "software developer",
+      "department": "tech",
+      "basicsalary": "5000"
+    },
+    {
+      "id": "2",
+      "empid": "2",
+      "name": "devraj",
+      "designation": "software developer",
+      "department": "tech",
+      "basicsalary": "2500"
+    },
+    {
+      "id": "3",
+      "empid": "3",
+      "name": "john",
+      "designation": "software developer",
+      "department": "tech",
+      "basicsalary": "8500"
+    },
+    {
+      "id": "9a7e",
+      "empid": "5662",
+      "name": "chbhb",
+      "designation": "cjnc",
+      "department": "cie",
+      "basicsalary": "58525"
+    },
+    {
+      "id": "ebb8",
+      "empid": "5",
+      "name": "Rani garg",
+      "designation": "bhopal",
+      "department": "cyber",
+      "basicsalary": "898752"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Squooshy Slides for Women ",
+            "category":"men slipper",
+            "brand":"CUSHIONAIRE",
+            "price":799,
+            "description":"CUSHIONAIRE Women's Feather cloud recovery slide sandals with +Comfort",
+            "time":"new",
+            "discount":30,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Black_4044a475-9e9f-41f4-b4d4-ad163296da0a.png?v=1725094450&width=450"
+        },
+        {
+            "id":2,
+            "name":"The Dependables ",
+            "category":"men",
+            "brand":"nike",
+            "price":6499,
+            "description":"Gets the job done comfortably",
+            "time":"new",
+            "image":"https://neemans.com/cdn/shop/files/Black-Blue.png?v=1725023388&width=450"
+        },
+        {
+            "id":3,
+            "name":"Squooshy Slides for Men : Olive-Black ",
+            "category":"men",
+            "brand":"campus",
+            "price":3499,
+            "description":"Fresh and ready for casual adventures",
+            "discount":40,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Black_ad372b61-461a-4256-9af1-8467ec397ba4.png?v=1724986891&width=450"
+        },
+        {
+            "id":4,
+            "name":"The Wanderers Sneakers : Grey",
+            "category":"men",
+            "brand":"nike",
+            "price":3400,
+            "description":"Get a comfortable Tan this Summer",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Black_3c07fbc7-2579-4fd0-80cd-5aced89529c2.png?v=1724986670&width=450"
+        },
+        {
+            "id":5,
+            "name":"The Wanderers Slip Ons : Black",
+            "category":"women slipper",
+            "brand":"reebok",
+            "price":31995,
+            "description":"A regular feature in your travel plans",
+            "discount":80,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Olive-Black_5ed5444a-9d18-4f00-a254-8a59c5e651df.png?v=1725017359&width=450"
+        },
+        {
+            "id":6,
+            "name":"The SneakPops : White Tan",
+            "category":"women",
+            "brand":"puma",
+            "price":399,
+            "description":"The SneakPops is all about that retro vibe with modern-day comfort that you trust Neemans for",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/White_Tan_c5168b20-d9ca-4c43-8a4e-91d57996d7a7.png?v=1724986869&width=450"
+        },
+        {
+            "id":7,
+            "name":"The Saunterers : Black-Grey",
+            "category":"women",
+            "brand":"adidas",
+            "price":1803,
+            "description":"Cool, casual, and utterly comfortable",
+            "discount":20,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Black-Grey_5b24dc84-6262-4fe5-b4ba-3bf64ab5aa69.png?v=1724986850&width=450"
+        },
+        {
+            "id":8,
+            "name":"The Rockers : White/Red",
+            "category":"women",
+            "brand":"bata",
+            "price":3400,
+            "description":"What stands out about the good ol era of rock n roll? Great vibes, standout style, and badass attitude.",
+            "time":"new",
+            "discount":60,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/White-Red_4affddda-28f8-49b8-bd98-b11140b2e470.png?v=1724986835&width=450"
+        },
+        {
+            "id":9,
+            "name":"The Eighties : Ivory-Brown-Yellow",
+            "category":"men",
+            "brand":"woodland",
+            "price":380,
+            "description":"It’s time to slip into ‘The Eighties’ - Vintage but fresher; a nod to the past with a pulse on the present.",
+            "image":"https://neemans.com/cdn/shop/files/Ivory-Brown-Yellow_90c77c72-2d99-4ca2-976b-eed7da3e6d7a.png?v=1724986743&width=450"
+        },
+        {
+            "id":10,
+            "name":"The Derbies : Black",
+            "category":"men",
+            "brand":"Sketchers",
+            "price":1399,
+            "description":"Formal elegance made more casual and wearable",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Ivory-Brown-Yellow_90c77c72-2d99-4ca2-976b-eed7da3e6d7a.png?v=1724986743&width=450"
+        },
+        {
+            "id":11,
+            "name":"The Charmers : Black",
+            "category":"women",
+            "brand":"adidas",
+            "price":23995,
+            "description":"Modern, elegant with a wink of charm",
+            "image":"https://neemans.com/cdn/shop/files/Grey_823f8265-5314-4dce-9cdc-ee3e46870d15.png?v=1724986904&width=450"
+        },
+        {
+            "id":12,
+            "name":"Preppy Kicks : Black ",
+            "category":"men",
+            "brand":"bata",
+            "price":3060,
+            "description":"A summon from the Fashion Principal",
+             "time":"new",
+             "discount":80,
+             "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/Black_3952cca5-a770-4a74-8a02-03bca6d39bc9.png?v=1724986639&width=450"
+        },
+        {
+            "id":13,
+            "name":"Squooshy Slides for Women ",
+            "category":"men",
+            "brand":"CUSHIONAIRE",
+            "price":799,
+            "description":"CUSHIONAIRE Women's Feather cloud recovery slide sandals with +Comfort",
+            "time":"new",
+            "discount":30,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-WHS-White-_WebOptimized_c_cafa857f-110e-4da5-8402-5cdc64d8583b.jpg?v=1724988675&width=700"
+        },
+        {
+            "id":14,
+            "name":"The Dependables ",
+            "category":"men",
+            "brand":"nike",
+            "price":6499,
+            "description":"Gets the job done comfortably",
+            "time":"new",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-TB-White-_WebOptimized_a_1927a761-d8fe-47bf-941d-91db8a55767d.jpg?v=1724988618&width=700"
+        },
+        {
+            "id":15,
+            "name":"Squooshy Slides for Men : Olive-Black ",
+            "category":"men",
+            "brand":"campus",
+            "price":3499,
+            "description":"Fresh and ready for casual adventures",
+            "discount":40,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-TB-Black-_WebOptimized_a_c529aef2-f60a-4ff3-9080-24569b8f6a85.jpg?v=1724988615&width=700"
+        },
+        {
+            "id":16,
+            "name":"The Wanderers Sneakers : Grey",
+            "category":"men",
+            "brand":"nike",
+            "price":3400,
+            "description":"Get a comfortable Tan this Summer",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-CWS-Khaki_WebOptimized_a_d5900ba1-23e0-41a0-a756-3a35a36a321c.jpg?v=1724988599&width=700"
+        },
+        {
+            "id":17,
+            "name":"The Wanderers Slip Ons : Black",
+            "category":"men",
+            "brand":"reebok",
+            "price":31995,
+            "description":"A regular feature in your travel plans",
+            "discount":80,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND_-_TSP_-_Grey_Blue_2_7cfef718-bd90-451a-988c-d7c3fbe39151.jpg?v=1724988590&width=700"
+        },
+        {
+            "id":18,
+            "name":"The SneakPops : White Tan",
+            "category":"men",
+            "brand":"puma",
+            "price":399,
+            "description":"The SneakPops is all about that retro vibe with modern-day comfort that you trust Neemans for",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://neemans.com/cdn/shop/files/White_Tan_c5168b20-d9ca-4c43-8a4e-91d57996d7a7.png?v=1724986869&width=450"
+        },
+        {
+            "id":19,
+            "name":"The Saunterers : Black-Grey",
+            "category":"men",
+            "brand":"adidas",
+            "price":1803,
+            "description":"Cool, casual, and utterly comfortable",
+            "discount":20,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND_-_RO_-_White_Navy_2_5497f2c4-a5af-4047-b6e4-92ce4409b439.jpg?v=1724988579&width=700"
+        },
+        {
+            "id":20,
+            "name":"The Rockers : White/Red",
+            "category":"men",
+            "brand":"bata",
+            "price":3400,
+            "description":"What stands out about the good ol era of rock n roll? Great vibes, standout style, and badass attitude.",
+            "time":"new",
+            "discount":60,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-TRS-Black-_WebOptimized_b_eb0f4904-5b51-4b68-8ff5-c47f43730c9a.jpg?v=1724988565&width=700"
+        },
+        {
+            "id":21,
+            "name":"The Eighties : Ivory-Brown-Yellow",
+            "category":"men",
+            "brand":"woodland",
+            "price":380,
+            "description":"It’s time to slip into ‘The Eighties’ - Vintage but fresher; a nod to the past with a pulse on the present.",
+            "image":"https://neemans.com/cdn/shop/files/Ivory-Brown-Yellow_90c77c72-2d99-4ca2-976b-eed7da3e6d7a.png?v=1724986743&width=450"
+        },
+        {
+            "id":22,
+            "name":"The Derbies : Black",
+            "category":"men",
+            "brand":"Sketchers",
+            "price":1399,
+            "description":"Formal elegance made more casual and wearable",
+            "time":"new",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-EBSneaker-HoneyPeel-_WebOptimized_a.jpg?v=1724987954&width=700"
+        },
+        {
+            "id":23,
+            "name":"The Charmers : Black",
+            "category":"men",
+            "brand":"adidas",
+            "price":23995,
+            "description":"Modern, elegant with a wink of charm",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-TEB-White-_WebOptimized_a_4372f043-b35b-4b09-9601-c957e5db25d9.jpg?v=1724988542&width=700"
+        },
+        {
+            "id":24,
+            "name":"Preppy Kicks : Black ",
+            "category":"men",
+            "brand":"bata",
+            "price":3060,
+            "description":"A summon from the Fashion Principal",
+             "time":"new",
+             "discount":80,
+             "offer":"yes",
+            "image":"https://cdn.shopify.com/s/files/1/2428/5565/files/ND-CN-Blue-_WebOptimized_a_dcf166cc-a974-455b-a167-76760b0e69bc.jpg?v=1724988459&width=700"
+        }
+    ]
+}

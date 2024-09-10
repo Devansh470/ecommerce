@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "devansh",
+      "email": "devanshgarg630@gmail.com",
+      "username": "devansh630",
+      "password": "devansh123"
+    },
+    {
+      "id": "1771",
+      "name": "devraj",
+      "email": "devraj455@gmail.com",
+      "username": "debu",
+      "password": "debu1234"
+    },
+    {
+      "id": "d1c5",
+      "name": "kavya",
+      "email": "kavya12345@gmail.com",
+      "username": "kavya123",
+      "password": "kavya123"
+    },
+    {
+      "id": "6416",
+      "name": "ffrr",
+      "email": "gtgrgde",
+      "username": "grreger",
+      "password": "grgrgrr"
+    },
+    {
+      "id": "fcac",
+      "name": "devansh",
+      "email": "devanshgarg630@gmail.com",
+      "password": "devansh123"
+    },
+    {
+      "id": "a4a9",
+      "name": "john",
+      "email": "john630@gmail.com",
+      "username": "jhony",
+      "password": "jhonyjhonyyespapa"
+    },
+    {
+      "id": "6f59",
+      "name": "devansh",
+      "email": "malviyaramniwas7@gmail.com",
+      "password": "devansh@4750"
+    },
+    {
+      "id": "f9a6",
+      "name": "mukesh ",
+      "email": "mukesh630",
+      "password": "m1234"
+    }
+  ]
+}
