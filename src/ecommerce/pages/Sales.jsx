@@ -7,13 +7,14 @@ import { FaCartShopping } from "react-icons/fa6";
 import { useDispatch } from 'react-redux';
 import { addcartdata } from '../addtocartslice';
 import { Flex, Tag } from 'antd';
-
+import { useNavigate } from 'react-router-dom';
 
 const { Meta } = Card;
 
 const Sale=()=>{
     const [mydata, setdata]=useState([]);
     const dispatch=useDispatch()
+    const mynav=useNavigate()
 
     const loaddata=()=>{
         let api="http://localhost:3000/data?offer=yes";
@@ -29,10 +30,22 @@ const Sale=()=>{
     const addcart=(id, name, cate, brand, price, desc, img)=>{
       dispatch(addcartdata({id:id, name:name, category:cate, brand:brand, price:price,
         description:desc, image:img, qnty:1 }))
-
-
     }
 
+    const checktime=(time)=>{
+        if(time=="new")
+        {
+          return(
+            <>
+            <Tag color="#f50" style={{padding:"2px" , width:"50px" , textAlign:"center" , position:"relative" , top:"-210px" , right:"15px"}}>{time}</Tag>
+            </>
+          )
+        }
+  
+      }
+      const redirect=(myid)=>{
+        mynav(`/singleproduct/${myid}`)
+      }
 
 
     const ans=mydata.map((key)=>{
@@ -40,9 +53,9 @@ const Sale=()=>{
         return(
             <>
             <Card hoverable style={{ width: 300, backgroundColor:"rgb(241, 241, 241)", margin:"20px 0px 0px 0px"}} 
-            cover={<img alt="example" src={key.image} style={{width: 300, height: 200, margin:"0px"}}/>}>
+            cover={<img alt="example" src={key.image} style={{width: 300, height: 200, margin:"0px"}} onClick={()=>{redirect(key.id)}}/>}>
               <Flex gap="4px 0" wrap>
-              <Tag color="#f50">{key.time}</Tag>
+              {checktime(key.time)}
     </Flex>
     <Meta title={key.name} description={key.description} />
     <h4  style={{color:"blue", fontSize:"14px"}}>  Brand : { key.brand} 

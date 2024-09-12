@@ -8,13 +8,14 @@ import { FaCartShopping } from "react-icons/fa6";
 import { useDispatch } from 'react-redux';
 import { addcartdata } from '../addtocartslice';
 import { Flex, Tag } from 'antd';
+import { useNavigate } from 'react-router-dom';
 
 
 const { Meta } = Card;
-
 const Home=()=>{
     const [mydata, setdata]=useState([]);
     const dispatch=useDispatch()
+    const mynav=useNavigate()
 
     const loaddata=()=>{
         let api="http://localhost:3000/data";
@@ -41,15 +42,19 @@ const Home=()=>{
           </>
         )
       }
+    }
 
+    const redirect=(myid)=>{
+      mynav(`/singleproduct/${myid}`)
     }
 
 
+    
     const ans=mydata.map((key)=>{
         return(
             <>
             <Card hoverable style={{ width: 300, backgroundColor:"rgb(241, 241, 241)", margin:"50px 0px 0px 0px"}} 
-            cover={<img alt="example" src={key.image} style={{width: 300, height: 200, margin:"0px"}}/>}>
+            cover={<img alt="example" src={key.image} style={{width: 300, height: 200, margin:"0px"}} onClick={()=>{redirect(key.id)}}/>}>
               <Flex gap="4px 0" wrap>
                 <div>
                 {checktime(key.time)}

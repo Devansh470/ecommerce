@@ -26,5 +26,6 @@
 #shoppage
 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    overflow-x:hidden;
 }

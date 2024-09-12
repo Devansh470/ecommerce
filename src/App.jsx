@@ -1,3 +1,16 @@
+// import Practicetodo from "./practice/Practicetodo";
+
+// const App=()=>{
+//     return(
+//       <>
+//       <Practicetodo/>
+
+      
+//       </>
+//     )
+// }
+// export default App;
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./ecommerce/Layout";
 import Home from "./ecommerce/pages/Home";
@@ -11,7 +24,7 @@ import Womenshoes from "./ecommerce/pages/Womenshoes";
 import MenSlippers from "./ecommerce/pages/MenSlippers";
 import WomenSlippers from "./ecommerce/pages/Womenslippers";
 import Blog from "./ecommerce/pages/Blog";
-
+import Singlepages from "./ecommerce/pages/Singlepages";
 
 const App=()=>{
     return(
@@ -31,6 +44,7 @@ const App=()=>{
         <Route path="menslippers" element={<MenSlippers/>}/>
         <Route path="womenslippers" element={<WomenSlippers/>}/>
         <Route path="blog" element={<Blog/>}/>
+        <Route path="singleproduct/:id" element={<Singlepages/>}/>
         </Route>
       </Routes>
       
@@ -39,3 +53,5 @@ const App=()=>{
     )
 }
 export default App;
+
+
